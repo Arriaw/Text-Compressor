@@ -3,6 +3,7 @@
 
 A simple program to reduce text size. 
 Using Huffman Algorithm.
+Based On Linux
 
 ## How to use the program?
 
